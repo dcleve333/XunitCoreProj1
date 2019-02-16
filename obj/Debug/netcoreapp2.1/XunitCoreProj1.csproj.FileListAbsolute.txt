@@ -1,0 +1,14 @@
+c:\Users\davidcleveland\Documents\GitHub\XunitCoreProj1\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\davidcleveland\Documents\GitHub\XunitCoreProj1\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+c:\Users\davidcleveland\Documents\GitHub\XunitCoreProj1\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+c:\Users\davidcleveland\Documents\GitHub\XunitCoreProj1\bin\Debug\netcoreapp2.1\XunitCoreProj1.deps.json
+c:\Users\davidcleveland\Documents\GitHub\XunitCoreProj1\bin\Debug\netcoreapp2.1\XunitCoreProj1.runtimeconfig.json
+c:\Users\davidcleveland\Documents\GitHub\XunitCoreProj1\bin\Debug\netcoreapp2.1\XunitCoreProj1.runtimeconfig.dev.json
+c:\Users\davidcleveland\Documents\GitHub\XunitCoreProj1\bin\Debug\netcoreapp2.1\XunitCoreProj1.dll
+c:\Users\davidcleveland\Documents\GitHub\XunitCoreProj1\bin\Debug\netcoreapp2.1\XunitCoreProj1.pdb
+c:\Users\davidcleveland\Documents\GitHub\XunitCoreProj1\obj\Debug\netcoreapp2.1\XunitCoreProj1.csprojAssemblyReference.cache
+c:\Users\davidcleveland\Documents\GitHub\XunitCoreProj1\obj\Debug\netcoreapp2.1\XunitCoreProj1.csproj.CoreCompileInputs.cache
+c:\Users\davidcleveland\Documents\GitHub\XunitCoreProj1\obj\Debug\netcoreapp2.1\XunitCoreProj1.AssemblyInfoInputs.cache
+c:\Users\davidcleveland\Documents\GitHub\XunitCoreProj1\obj\Debug\netcoreapp2.1\XunitCoreProj1.AssemblyInfo.cs
+c:\Users\davidcleveland\Documents\GitHub\XunitCoreProj1\obj\Debug\netcoreapp2.1\XunitCoreProj1.dll
+c:\Users\davidcleveland\Documents\GitHub\XunitCoreProj1\obj\Debug\netcoreapp2.1\XunitCoreProj1.pdb
